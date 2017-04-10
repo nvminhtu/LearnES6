@@ -31,7 +31,9 @@
 * [Understanding ECMASCRIPT6](https://leanpub.com/understandinges6/read)
 
 ### Một số ES6 BoilerPlate:
+* [Gulp-ES6-Browserify-Boilerplate](https://github.com/nvminhtu/gulp-es6-browserify-boilerplate)
 * [Boilerplate-ES6](https://github.com/stefanwalther/boilerplate-es6)
+
 Bộ sậu này bao gồm:
 * Javascript ES6
 * ES6 Transpiler (Babel)
