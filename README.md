@@ -32,3 +32,10 @@
 
 ### Một số ES6 BoilerPlate:
 * [Boilerplate-ES6](https://github.com/stefanwalther/boilerplate-es6)
+Bộ sậu này bao gồm:
+* Javascript ES6
+* ES6 Transpiler (Babel)
+* Build System (Gulp)
+* Test Framework (Mocha - Istanbul & nyc)
+* Code Style (ESlint)
+* Documentation Generator (Verb)
