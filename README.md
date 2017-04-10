@@ -29,3 +29,6 @@
 
 ### Ebooks nên đọc
 * [Understanding ECMASCRIPT6](https://leanpub.com/understandinges6/read)
+
+### Một số ES6 BoilerPlate:
+* [ES6-Babel-Browserfy](https://github.com/thoughtram/es6-babel-browserify-boilerplate)
