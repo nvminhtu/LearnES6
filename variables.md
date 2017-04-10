@@ -13,5 +13,5 @@ if(true) {
   let x = 1;
   console.log(x); // in ra: "1"
 }
-console.log(x);  // undefined x do x chỉ được khai báo trong khối lệnh if() { ... }
+console.log(x);  // undefined x do x chỉ được khai báo trong khối lệnh if() { ... } ( trong phạm vi của block)
 ```
