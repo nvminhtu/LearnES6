@@ -8,8 +8,8 @@
 
 ### 20 DAYS for challenge
 * DAY1: Tổng quan, cài đặt, ebooks, tài liệu, demo các tính năng.s
-* DAY2: Basic Syntax, Các BoilerPlate.s
-* DAY3: s
+* DAY2: Basic Syntax, Các BoilerPlate.
+* DAY3:
 
-### Concepts
-[Webpack JS]: <https://webpack.js.org/>
+### Ebooks nên đọc
+* [Understanding ECMASCRIPT6](https://leanpub.com/understandinges6/read)
