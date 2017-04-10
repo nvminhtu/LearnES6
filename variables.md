@@ -15,3 +15,5 @@ if(true) {
 }
 console.log(x);  // undefined x do x chỉ được khai báo trong khối lệnh if() { ... } ( trong phạm vi của block)
 ```
+
+> var có hiệu lực đến hàm gần nhất, trong khi let có hiệu lực đến dấu đóng mở ngoặc gần nhất (thường sẽ nhỏ hơn phạm vi của hàm gần nhất)
