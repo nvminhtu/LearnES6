@@ -4,7 +4,7 @@
 * ES6 là gì?
 * Vì sao nên sử dụng ES6?
 * Các tính năng đặc biệt nhất của ES6 là gì?
-* Dùng công cụ gì để code ES6 và nên cài thêm các plugin nào?s
+* Dùng công cụ gì để code ES6 và nên cài thêm các plugin nào?
 
 ### Danh sách tính năng:
 * Block Bindings Work?
@@ -16,7 +16,7 @@
 * Sets and Map
 * Iterators and Generators
 * Javascript Classes
-* Array Cabilities
+* Array Capilities
 * Promises and Asynchronous Programming
 * Proxies and the Reflection API
 * Encapsulating Code with Modules
