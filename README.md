@@ -33,6 +33,7 @@
 ### Một số ES6 BoilerPlate:
 * [Gulp-ES6-Browserify-Boilerplate](https://github.com/nvminhtu/gulp-es6-browserify-boilerplate)
 * [Boilerplate-ES6](https://github.com/stefanwalther/boilerplate-es6)
+* [ES6-Boiler-plate](https://github.com/timwis/es6-boilerplate/issues) - Webpack,BrowserSync, Babel
 
 Bộ sậu này bao gồm:
 * Javascript ES6
