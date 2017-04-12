@@ -1,13 +1,14 @@
-const PI = 3.14;
-const value = 42;
+// 0 -- global function --------------------------------
 
+export const PI = 3.14;
+export const value = 42;
 export const table = { foo: 'bar' };
-export function hello() {};
-//
-// module.exports = function(msg){
-//   console.log(msg);
-// }
 
+// null function
+export function hello() {};
+
+// 1 -- test export --------------------------------
+// animal data functions
 export function speak () {
   return 'moo';
 }
@@ -18,4 +19,15 @@ export function eat () {
 
 export function drink () {
   return 'cow drinks';
+}
+// -- end test export
+
+// 2 -- Let --------------------------------
+export function letVariables() {
+  let x;
+  if(true) {
+    let x = 1;
+    console.log(x); // show ket quả ra 1
+  }
+  return x;  // show ket qua ra undefined vì let chỉ mang giá trị trong block {} if
 }

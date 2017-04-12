@@ -1,15 +1,23 @@
-// require javascript files
-// var variables = require('./variables.js');
-//
-// variables("Hello world");
 
-import { speak } from './variables';
+// cach 1: require javascript files
+/* var variables = require('./variables.js');
+variables("Hello world"); */
 
-console.log(speak()); // => 'moo'
-// demo: let
-// let x;
-// if(true) {
-//   let x = 1;
-//   console.log(x); // show ket qua ra 1
-// }
-// console.log(x); // show ket qua ra undefined vì let chỉ mang giá trị trong block {} if
+// cach 2: import module từ 1 file
+/* import { speak } from './variables';
+console.log(speak()); // => 'moo' */
+
+// cach 3: import multi modules in one file
+import {
+  PI as PIdata,
+  speak as cowSpeak,
+  eat as cowEat,
+  drink as cowDrink,
+  letVariables as letData
+} from './variables'
+
+console.log(PIdata);
+console.log(cowSpeak());
+
+// call Letdata
+letData();
