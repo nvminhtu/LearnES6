@@ -1,3 +1,8 @@
+export function mathFunc() {
+    var multiply  = (x,y) => { return x * y; }
+    console.log(multiply);
+}
+
 export function basicArrow() {
   // noi dung function
   var hello = (name, message) => {
@@ -24,8 +29,11 @@ export function mapAndArrow() {
 
   // sử dụng arrow function
   var domain = ["minhtu.net","tungit.net","oplungphukien.com"];
+
   domain.map((val,key) => {
-    console.log(val.toUpperCase());
+     console.log(val.toUpperCase());
+     domain[key] = val.toUpperCase();
   });
+  console.log(domain);
 
 }

@@ -39,11 +39,13 @@ multilineItems(); */
 // 3. ARROW FUNCTION --------------------
 import {
   basicArrow,
-  mapAndArrow
+  mapAndArrow,
+  mathFunc
 } from './arrow'
 
 basicArrow();
 mapAndArrow();
+mathFunc(2,5);
 
 
 
