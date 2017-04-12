@@ -37,21 +37,22 @@ multilineBreak();
 multilineItems(); */
 
 // 3. ARROW FUNCTION --------------------
-import {
-  basicArrow,
-  mapAndArrow,
-  mathFunc,
-  arrowAndString
-} from './arrow'
+// import {
+//   basicArrow,
+//   mapAndArrow,
+//   mathFunc,
+//   arrowAndString
+// } from './arrow'
+//
+// basicArrow();
+// mapAndArrow();
+// mathFunc();
+// arrowAndString();
 
-basicArrow();
-mapAndArrow();
-mathFunc();
-arrowAndString();
+// 4. DEFINITION --------------------
+import { Definition } from './definition'
 
-
-
-
+Definition();
 
 
 
