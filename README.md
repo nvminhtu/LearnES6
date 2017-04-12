@@ -28,7 +28,7 @@
 * DAY3: Basic syntax (Import /Export/Variables)
 
 ### Tutorials hay
-[Export trong ES6](https://medium.com/@timoxley/named-exports-as-the-default-export-api-670b1b554f65)
+[Export trong ES6](https://medium.com/@timoxley/named-exports-as-the-default-export-api-670b1b554f65) - Bài viết trên Medium về ES6 khá hay.
 ### Ebooks nên đọc
 * [Understanding ECMASCRIPT6](https://leanpub.com/understandinges6/read)
 
