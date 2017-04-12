@@ -1,6 +1,12 @@
 export function mathFunc() {
-    var multiply  = (x,y) => { return x * y; }
-    console.log(multiply);
+    var multiply = (x,y) => { return x * y; }
+    console.log(multiply(2,3));
+}
+
+export function arrowAndString() {
+  const multiply = (a,b) => a * b;
+  let string = `The value of 3 * 5 is ${multiply(3,5)}`;
+  console.log(string);
 }
 
 export function basicArrow() {
