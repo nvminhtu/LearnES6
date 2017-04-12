@@ -24,7 +24,7 @@ letData();
 */
 
 // 2. DEMO TEMPLATE STRINGS-----------------------------------------
-import {
+/* import {
   basic as basicTemplate,
   multiline as multiLine,
   multilineBreak as multilineBreak,
@@ -34,4 +34,24 @@ import {
 basicTemplate();
 multiLine();
 multilineBreak();
-multilineItems();
+multilineItems(); */
+
+// 3. ARROW FUNCTION --------------------
+import {
+  basicArrow,
+  mapAndArrow
+} from './arrow'
+
+basicArrow();
+mapAndArrow();
+
+
+
+
+
+
+
+
+
+
+// end file
