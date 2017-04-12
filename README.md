@@ -23,10 +23,12 @@
 * Update News for ES6
 
 ### 20 DAYS for challenge
-* DAY1: Tổng quan, cài đặt, ebooks, tài liệu, demo các tính năng.s
-* DAY2: Basic Syntax, Các BoilerPlate.
-* DAY3:
+* DAY1: Tổng quan, cài đặt, kiếm ebooks, tài liệu, demo các tính năng xem làm được gì?
+* DAY2: Cài đặt các BoilerPlate. (NPM Package / Webpack / Gulp / Grunt)
+* DAY3: Basic syntax (Import /Export/Variables)
 
+### Tutorials hay
+[Export trong ES6](https://medium.com/@timoxley/named-exports-as-the-default-export-api-670b1b554f65)
 ### Ebooks nên đọc
 * [Understanding ECMASCRIPT6](https://leanpub.com/understandinges6/read)
 
@@ -34,11 +36,3 @@
 * [Gulp-ES6-Browserify-Boilerplate](https://github.com/nvminhtu/gulp-es6-browserify-boilerplate)
 * [Boilerplate-ES6](https://github.com/stefanwalther/boilerplate-es6)
 * [ES6-Boiler-plate](https://github.com/timwis/es6-boilerplate/issues) - Webpack,BrowserSync, Babel
-
-Bộ sậu này bao gồm:
-* Javascript ES6
-* ES6 Transpiler (Babel)
-* Build System (Gulp)
-* Test Framework (Mocha - Istanbul & nyc)
-* Code Style (ESlint)
-* Documentation Generator (Verb)
