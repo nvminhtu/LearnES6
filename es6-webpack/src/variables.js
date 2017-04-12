@@ -4,6 +4,10 @@ export const PI = 3.14;
 export const value = 42;
 export const table = { foo: 'bar' };
 
+// const
+const score = 0; // valid declaration
+//const end; // invalid - missing initialization
+
 // null function
 export function hello() {};
 
