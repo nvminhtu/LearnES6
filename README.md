@@ -27,6 +27,9 @@
 * DAY2: Cài đặt các BoilerPlate. (NPM Package / Webpack / Gulp / Grunt)
 * DAY3: Basic syntax (Import /Export/Variables)
 
+### Một số playground để test nhanh ES6
+* [BABEL JS](https://babeljs.io/repl/#?babili=false&evaluate=true&lineWrap=false&presets=es2015%2Creact%2Cstage-2&targets=&browsers=&builtIns=false&code=let%20a%20%3D%200%3B%0A%0Aconsole.log(t)%3B) - Code ES6/7 online với công cụ của Babel - có tích hợp sẵn check javascript lint
+
 ### Tutorials hay
 * [Export trong ES6](https://medium.com/@timoxley/named-exports-as-the-default-export-api-670b1b554f65) - Bài viết trên Medium về ES6 khá hay.
 ### Ebooks nên đọc
