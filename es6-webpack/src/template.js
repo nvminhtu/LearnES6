@@ -20,3 +20,16 @@ export function multilineBreak() {
   Line2";
   console.log(message);
 }
+
+// 04 -
+export function multilineItems() {
+  var message1 = [
+    "Multiline ",
+    "string"
+  ].join("\n"); // the old way
+
+  let message2 = "Multiline \n" +
+    "string"; // using ES6 template string
+
+  console.log(message2);
+}

@@ -27,9 +27,11 @@ letData();
 import {
   basic as basicTemplate,
   multiline as multiLine,
-  multilineBreak as multilineBreak
+  multilineBreak as multilineBreak,
+  multilineItems as multilineItems
 } from './template'
 
 basicTemplate();
 multiLine();
 multilineBreak();
+multilineItems();
