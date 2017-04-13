@@ -3,4 +3,16 @@
 ### Using Webpack
 * Multiple entry point in webpack.
 
-### Danh sách tính năng:
+### Cài đặt
+```
+npm install
+```
+* Build
+```
+webpack
+```
+
+* Run Webpack Dev Server
+```
+webpack-dev-server
+```
