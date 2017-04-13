@@ -50,13 +50,15 @@ multilineItems(); */
 // arrowAndString();
 
 // 4. DEFINITION --------------------
-import { Definition } from './definition'
+// import { Definition } from './definition'
+// Definition();
 
-Definition();
+// 5. CLASS ------------------------
 
+import { KidsGame } from './class';
 
-
-
-
+// We instantiate our named class
+const game = new KidsGame('2Cards','Tu','2017');
+console.log(game);
 
 // end file

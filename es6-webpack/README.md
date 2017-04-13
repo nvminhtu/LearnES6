@@ -1,7 +1,8 @@
 # Webpack
 
-### Using Webpack
-* Multiple entry point in webpack.
+### Sử dụng Webpack
+* Mục đích build app sử dụng ES6
+* Đóng gói code.
 
 ### Cài đặt
 ```
