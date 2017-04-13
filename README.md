@@ -32,7 +32,7 @@
 
 ### Tutorials hay
 * [Export trong ES6](https://medium.com/@timoxley/named-exports-as-the-default-export-api-670b1b554f65) - Bài viết trên Medium về ES6 khá hay.
-* [ES6 Modules - Single instance Pattern(https://k94n.com/es6-modules-single-instance-pattern) - Export class sử dụng cái này khá hay.
+* [ES6 Modules - Single instance Pattern](https://k94n.com/es6-modules-single-instance-pattern) - Export class sử dụng cái này khá hay.
 * [ES6 - Using Class](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes) - Sử dụng Class trong ES6
 * [ES6 - Module - Example](http://javascript.tutorialhorizon.com/2015/06/23/es6-modules-examples/) - Áp dụng ES6 Module trong dự án.
 
