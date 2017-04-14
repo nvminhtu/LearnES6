@@ -57,7 +57,7 @@
 * [ES6 Modules - Single instance Pattern](https://k94n.com/es6-modules-single-instance-pattern) - Export class sử dụng cái này khá hay.
 * [ES6 - Using Class](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes) - Sử dụng Class trong ES6
 * [ES6 - Module - Example](http://javascript.tutorialhorizon.com/2015/06/23/es6-modules-examples/) - Áp dụng ES6 Module trong dự án.
-
+* [8 Special Features in ES6](https://blog.jscrambler.com/8-awesome-es6-features/)
 
 ### Ebooks nên đọc
 * [Understanding ECMASCRIPT6](https://leanpub.com/understandinges6/read)

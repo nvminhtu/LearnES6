@@ -22,13 +22,15 @@ console.log(speak()); // => 'moo' */
 // // call Letdata
 // letData();
 
-import {
-  funcScope,
-  blockScope
-} from './variables'
+// thử nghiệm function Scope và block Scope
+// import {
+//   funcScope,
+//   blockScope
+// } from './variables'
+//
+// funcScope();
+// blockScope();
 
-funcScope();
-blockScope();
 // 2. DEMO TEMPLATE STRINGS-----------------------------------------
 /* import {
   basic as basicTemplate,
@@ -67,6 +69,17 @@ multilineItems(); */
 // const game = new KidsGame('2Cards','Tu','2017');
 // console.log(game);
 
+// 6. OBJECT DESTRUCTURING -----------------
+import { Destructuring, DestructuringAssign } from './objects';
+Destructuring();
+DestructuringAssign();
+
+// 7. ARRAY DESTRUCTURING ----------------
+// import {
+//   Destructuring,
+//   DestructuringAssign
+// } from './array';
+// Destructuring();
 
 
 // end file
