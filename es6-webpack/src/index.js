@@ -9,20 +9,26 @@ console.log(speak()); // => 'moo' */
 
 // cach 3: import multi modules in one file
 // 1. Demo CONST, LET DATA --------------------------
-/*
-import {
-  PI as PIdata,
-  speak as cowSpeak,
-  eat as cowEat,
-  drink as cowDrink,
-  letVariables as letData
-} from './variables'
-console.log(PIdata);
-console.log(cowSpeak());
-// call Letdata
-letData();
-*/
 
+// import {
+//   PI as PIdata,
+//   speak as cowSpeak,
+//   eat as cowEat,
+//   drink as cowDrink,
+//   letVariables as letData
+// } from './variables'
+// console.log(PIdata);
+// console.log(cowSpeak());
+// // call Letdata
+// letData();
+
+import {
+  funcScope,
+  blockScope
+} from './variables'
+
+funcScope();
+blockScope();
 // 2. DEMO TEMPLATE STRINGS-----------------------------------------
 /* import {
   basic as basicTemplate,
@@ -55,10 +61,12 @@ multilineItems(); */
 
 // 5. CLASS ------------------------
 
-import { KidsGame } from './class';
+// import { KidsGame } from './class';
+//
+// // We instantiate our named class
+// const game = new KidsGame('2Cards','Tu','2017');
+// console.log(game);
 
-// We instantiate our named class
-const game = new KidsGame('2Cards','Tu','2017');
-console.log(game);
+
 
 // end file

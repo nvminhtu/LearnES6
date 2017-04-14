@@ -9,3 +9,5 @@
 * Hoisting
 * Từ khóa this
 * Bind(), Call(), Apply()
+* Phân biệt Function Scope và Blocked Scope
+* 

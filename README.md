@@ -27,11 +27,30 @@
 * DAY 2: Cài đặt các BoilerPlate. (NPM Package / Webpack / Gulp / Grunt)
 * DAY 3: Basic syntax (Import /Export/Variables)
 * DAY 4: Arrow Function, Template Strings, Class, Một số câu hỏi trong Javascript
-* DAY 5:
-* DAY 6:
+* DAY 5: Array Comprehension, Array Destructuring, Default Parameter, REST Parameter
+* DAY 6: Spread Operator, Lexical Block Scope
+* DAY 7: Objects, String, Number
+* DAY 8:
+* DAY 9:
+* DAY 10:
+* DAY 11:
+* DAY 12:
+* DAY 13:
+* DAY 14:
+* DAY 15:
+* DAY 16:
+* DAY 17:
+* DAY 18:
+* DAY 19:
+* DAY 20:
+
 
 ### Một số playground để test nhanh ES6
+* [LEARN HARMONY](http://learnharmony.org/#/) - trang này có thể soạn code online, dễ dàng cập nhật.
 * [BABEL JS](https://babeljs.io/repl/#?babili=false&evaluate=true&lineWrap=false&presets=es2015%2Creact%2Cstage-2&targets=&browsers=&builtIns=false&code=let%20a%20%3D%200%3B%0A%0Aconsole.log(t)%3B) - Code ES6/7 online với công cụ của Babel - có tích hợp sẵn check javascript lint
+
+### Slide - 1 số slide hay về ES6
+* [ECMASCRIPT6-Presentation] (http://cdn.oreillystatic.com/en/assets/1/event/93/An%20Overview%20of%20ECMAScript%206%20Presentation.pdf) - Slide này dễ hiểu, giúp mình cập nhật nhanh.
 
 ### Tutorials hay
 * [Export trong ES6](https://medium.com/@timoxley/named-exports-as-the-default-export-api-670b1b554f65) - Bài viết trên Medium về ES6 khá hay.

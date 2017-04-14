@@ -35,3 +35,23 @@ export function letVariables() {
   }
   return x;  // show ket qua ra undefined vì let chỉ mang giá trị trong block {} if
 }
+
+// 2.1 Let & var
+// Phân biệt function Scope và Block Scope
+export function funcScope() {
+  if(true) {
+    var color = 'red';
+  }
+  if(true) {
+    console.log('color is' + color); // red
+  }
+}
+
+export function blockScope() {
+  if(true) {
+    let color = 'blue';
+  }
+  if(true) {
+    console.log('color is' + color); // undefined
+  }
+}
