@@ -23,9 +23,12 @@
 * Update News for ES6
 
 ### 20 DAYS for challenge
-* DAY1: Tổng quan, cài đặt, kiếm ebooks, tài liệu, demo các tính năng xem làm được gì?
-* DAY2: Cài đặt các BoilerPlate. (NPM Package / Webpack / Gulp / Grunt)
-* DAY3: Basic syntax (Import /Export/Variables)
+* DAY 1: Tổng quan, cài đặt, kiếm ebooks, tài liệu, demo các tính năng xem làm được gì?
+* DAY 2: Cài đặt các BoilerPlate. (NPM Package / Webpack / Gulp / Grunt)
+* DAY 3: Basic syntax (Import /Export/Variables)
+* DAY 4: Arrow Function, Template Strings, Class, Một số câu hỏi trong Javascript
+* DAY 5:
+* DAY 6:
 
 ### Một số playground để test nhanh ES6
 * [BABEL JS](https://babeljs.io/repl/#?babili=false&evaluate=true&lineWrap=false&presets=es2015%2Creact%2Cstage-2&targets=&browsers=&builtIns=false&code=let%20a%20%3D%200%3B%0A%0Aconsole.log(t)%3B) - Code ES6/7 online với công cụ của Babel - có tích hợp sẵn check javascript lint
@@ -35,6 +38,7 @@
 * [ES6 Modules - Single instance Pattern](https://k94n.com/es6-modules-single-instance-pattern) - Export class sử dụng cái này khá hay.
 * [ES6 - Using Class](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes) - Sử dụng Class trong ES6
 * [ES6 - Module - Example](http://javascript.tutorialhorizon.com/2015/06/23/es6-modules-examples/) - Áp dụng ES6 Module trong dự án.
+
 
 ### Ebooks nên đọc
 * [Understanding ECMASCRIPT6](https://leanpub.com/understandinges6/read)
