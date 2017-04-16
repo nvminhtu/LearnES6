@@ -5,3 +5,11 @@ export function Destructuring() {
   [x,y] = [y,x];
   console.log([x,y]);
 }
+
+export function ArrDestructing() {
+  // using spread operator ...
+  let [first, ...remaining] = [1,2,3,4,5];
+  // show DATA
+  console.log(first);
+  console.log(remaining);
+}

@@ -70,16 +70,16 @@ multilineItems(); */
 // console.log(game);
 
 // 6. OBJECT DESTRUCTURING -----------------
-import { Destructuring, DestructuringAssign } from './objects';
-Destructuring();
-DestructuringAssign();
+// import { Destructuring, DestructuringAssign } from './objects';
+// Destructuring();
+// DestructuringAssign();
 
 // 7. ARRAY DESTRUCTURING ----------------
-// import {
-//   Destructuring,
-//   DestructuringAssign
-// } from './array';
-// Destructuring();
-
+import {
+  Destructuring,
+  ArrDestructing
+} from './array';
+Destructuring();
+ArrDestructing();
 
 // end file
