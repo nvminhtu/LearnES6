@@ -68,3 +68,17 @@
 * [Gulp-ES6-Browserify-Boilerplate](https://github.com/nvminhtu/gulp-es6-browserify-boilerplate)
 * [Boilerplate-ES6](https://github.com/stefanwalther/boilerplate-es6)
 * [ES6-Boiler-plate](https://github.com/timwis/es6-boilerplate/issues) - Webpack,BrowserSync, Babel
+
+### Một số trang để cập nhật kiến thức Javascript cũng như Tutorial
+
+
+### Một số trang blog, website hay để tham khảo Javascript cũng như lập trình
+* [Blog tôi đi code dạo](https://toidicodedao.com/) - Blog hay về giải thuật, kiến thức cần có
+* [Duy Thanh Android](https://duythanhcse.wordpress.com/) - Tham khảo về Android, Java
+* [Full Stack Developer](https://codeaholicguy.com/) - Tham khảo về Java, Spring, AngularJS, ReactJS
+* [Rails & Mongodb](http://luanotes.com/) - Tiếng Việt hay tham khảo về Rails cũng như vọc vạch về Mongodb
+* [Blog hay về việc IT](https://jusfunny.wordpress.com/) - chia sẻ các kiến thức trong công việc IT, làm gì, như thế nào,...
+* [Blog học tập](http://bloghoctap.com/) - Review sách hay cần follow
+* [Blog Khang Nguyen](http://blog.khangnguyen.me/) - Read and Learning English for writing.
+* [Blog đọc cập nhật kiến thức](https://vinacode.net/) - Chủ yếu đọc bài từ các bài đã dịch của các trang nước ngoài
+* [Blog Thạch Phạm](https://thachpham.com/) - chuyên về Wordpress
