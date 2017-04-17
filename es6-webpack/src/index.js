@@ -58,9 +58,11 @@ multilineItems(); */
 // arrowAndString();
 
 // 4. DEFINITION --------------------
-// import { Definition } from './definition'
-// Definition();
-
+import { Definition, SpreadOutDemo, defaultParameter, defaultParaES6} from './definition'
+//Definition();
+//SpreadOutDemo();
+defaultParameter(0,45); //56 => wrong if use this way in es5 (not 42?)
+defaultParaES6();
 // 5. CLASS ------------------------
 
 // import { KidsGame } from './class';
@@ -75,11 +77,11 @@ multilineItems(); */
 // DestructuringAssign();
 
 // 7. ARRAY DESTRUCTURING ----------------
-import {
-  Destructuring,
-  ArrDestructing
-} from './array';
-Destructuring();
-ArrDestructing();
+// import {
+//   Destructuring,
+//   ArrDestructing
+// } from './array';
+// Destructuring();
+// ArrDestructing();
 
 // end file

@@ -30,7 +30,7 @@
 * DAY 5: Array Comprehension, Array Destructuring, Default Parameter, REST Parameter
 * DAY 6: Spread Operator, Lexical Block Scope
 * DAY 7: Objects, String, Number
-* DAY 8:
+* DAY 8: Spread Operator more, Default Parameter, Default Value Expression
 * DAY 9:
 * DAY 10:
 * DAY 11:
