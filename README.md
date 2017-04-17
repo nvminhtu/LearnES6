@@ -62,7 +62,7 @@
 
 ### Ebooks nên đọc
 * [Understanding ECMASCRIPT6](https://leanpub.com/understandinges6/read)
-* [You don't know JS ES6 & Beyond]: 
+* [You don't know JS ES6 & Beyond]: (https://github.com/nvminhtu/LearnES6/blob/master/ebooks/you-dont-know-js-es6-beyond-1st-kyle-simpson.pdf)
 
 ### Một số ES6 BoilerPlate:
 * [Gulp-ES6-Browserify-Boilerplate](https://github.com/nvminhtu/gulp-es6-browserify-boilerplate)
