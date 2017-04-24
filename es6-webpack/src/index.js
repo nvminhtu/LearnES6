@@ -87,6 +87,8 @@ multilineItems(); */
 // end file
 
 // 8. MAPS and SETS
-import { CustomMap, KeyMap } from './mapSet';
+import { CustomMap, KeyMap, MappingFiltering, CustomSet } from './mapSet';
 //CustomMap();
-KeyMap();
+//KeyMap();
+//MappingFiltering();
+CustomSet();
