@@ -31,7 +31,7 @@
 * DAY 6: Spread Operator, Lexical Block Scope
 * DAY 7: Objects, String, Number
 * DAY 8: Spread Operator more, Default Parameter, Default Value Expression
-* DAY 9:
+* DAY 9: Maps and Sets
 * DAY 10:
 * DAY 11:
 * DAY 12:
@@ -63,6 +63,7 @@
 ### Ebooks nên đọc
 * [Understanding ECMASCRIPT6](https://leanpub.com/understandinges6/read)
 * [You don't know JS ES6 & Beyond]: (https://github.com/nvminhtu/LearnES6/blob/master/ebooks/you-dont-know-js-es6-beyond-1st-kyle-simpson.pdf)
+* [Exploring ES6](http://exploringjs.com/es6/ch_maps-sets.html#sec_overview-maps-sets)
 
 ### Một số ES6 BoilerPlate:
 * [Gulp-ES6-Browserify-Boilerplate](https://github.com/nvminhtu/gulp-es6-browserify-boilerplate)
@@ -92,7 +93,7 @@
 * [Full Stack with React JS](http://andrewhfarmer.com/getting-started-tutorials/)
 * [Full Stack and Slideshare about ReactJS](https://www.fullstackreact.com/)
 
-> IONIC 
+> IONIC
 * [Josh Morony](https://www.joshmorony.com/) - Chuyên viết tutorial về IONIC rất hay
 * [Gajotres](http://www.gajotres.net/) - Hay share tutorial về sự kết hợp Cordova plugin trong IONIC
 * [GoneHybrid](https://gonehybrid.com/) - Viết nhiều về IONIC 1, IONIC 2
