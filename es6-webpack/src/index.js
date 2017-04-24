@@ -58,11 +58,11 @@ multilineItems(); */
 // arrowAndString();
 
 // 4. DEFINITION --------------------
-import { Definition, SpreadOutDemo, defaultParameter, defaultParaES6} from './definition'
+//import { Definition, SpreadOutDemo, defaultParameter, defaultParaES6} from './definition'
 //Definition();
 //SpreadOutDemo();
-defaultParameter(0,45); //56 => wrong if use this way in es5 (not 42?)
-defaultParaES6();
+// defaultParameter(0,45); //56 => wrong if use this way in es5 (not 42?)
+// defaultParaES6();
 // 5. CLASS ------------------------
 
 // import { KidsGame } from './class';
@@ -85,3 +85,8 @@ defaultParaES6();
 // ArrDestructing();
 
 // end file
+
+// 8. MAPS and SETS
+import { CustomMap, KeyMap } from './mapSet';
+//CustomMap();
+KeyMap();
