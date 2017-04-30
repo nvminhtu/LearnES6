@@ -36,6 +36,20 @@ console.log(typeof undefined);
 console.log(typeof null);
 
 
+// Math
+console.log(Math.abs(-2)); // 2
+console.log(Math.pow(3,2)); // 3^2 = 9
+console.log(Math.round(1.8)); // 2
+console.log(Math.cos(Math.PI)); // -1 
+
+// Other functions in Javascript
+// Date
+// JSON
+// console.*
+
+
+
+
 
 
 
