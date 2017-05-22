@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  <script>
+    function hello(thing) {
+      console.log(this + " says hello " + thing);
+    }
+    // cách gọi và khởi tạo bình thường
+    hello.call("Tu", "world"); //=> Tu says hello world
+    // việc viết như vậy trong tất cả các thời gian => khó chịu
+    function hello2(subject, thing) {
+      console.log(subject + " says hello " + thing);
+    }
+    hello2("Tu","world");
+    
+    var person = {
+      name: "Brendan Eich",
+      hello: function(thing) {
+        console.log(this.name + " says hello " + thing);
+      }
+    }
+
+    var boundHello = function(thing) {
+        return person.hello.call(person, thing);
+    }
+
+    boundHello("world");
+
+  </script>
+</body>
+</html>
