@@ -87,8 +87,14 @@ multilineItems(); */
 // end file
 
 // 8. MAPS and SETS
-import { CustomMap, KeyMap, MappingFiltering, CustomSet } from './mapSet';
+//import { CustomMap, KeyMap, MappingFiltering, CustomSet } from './mapSet';
 //CustomMap();
 //KeyMap();
 //MappingFiltering();
-CustomSet();
+//CustomSet();
+
+// 9. Iterators & Generators
+// import { Iterators, showTestIterators } from './iterators.js';
+// showTestIterators();
+//
+// console.log('test');

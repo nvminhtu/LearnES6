@@ -32,7 +32,7 @@
 * DAY 7: Objects, String, Number
 * DAY 8: Spread Operator more, Default Parameter, Default Value Expression
 * DAY 9: Maps and Sets
-* DAY 10:
+* DAY 10: Iterators and Generators
 * DAY 11:
 * DAY 12:
 * DAY 13:
